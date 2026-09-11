@@ -1,0 +1,4 @@
+=-- Docker Version =--
+Docker version 29.7.2, build a7dcaa6
+=-- Python Version =--
+Python 3.12.3
